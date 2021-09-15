@@ -5,6 +5,7 @@ Trying to predict the genre of songs based on the audio features provided by the
 1. Set up a python virtual environment  
    In the project folder run  
    `python3 -m venv env`
+   before run: 'pip install virtualenv' ('conda install virtualenv') in python shell - Martin 
 2. Activate the virtual environment (do this everytime you do anything!)  
    `.\env\Scripts\activate`  
    If this doesn't work, try running  
