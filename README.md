@@ -8,7 +8,7 @@ Trying to predict the genre of songs based on the audio features provided by the
 2. Activate the virtual environment (do this everytime you do anything!)  
    `.\env\Scripts\activate`  
    If this doesn't work, try running  
-   `Set-ExecutionPolicy Unrestricted -Scope Process`  
+   `Set-ExecutionPolicy Unrestricted -Scope CurrentUser`  
 3. To install the required packages run  
    `python -m pip install -r requirements.txt`
 4. Create a ".env" file in the root directory and add the current API Key from our OneNote like this:  
