@@ -22,3 +22,9 @@ Trying to predict the genre of songs based on the audio features provided by the
 - If you install new packages use  
   `python -m pip freeze > requirements.txt`  
   to add the package to the requirements file
+
+## How to use Jupyter in VSCode
+- You can open the Python Interactive Window from the command palette by running  
+  `Jupyter: Create Interactive Window`
+- You can create a new Jupyter Notebook from the command palette by running  
+  `Jupyter: Create New Blank`
