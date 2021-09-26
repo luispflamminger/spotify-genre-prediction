@@ -10,10 +10,8 @@ headers = {
     "Content-Type": "application/json",
     "Authorization": "Bearer " + os.environ.get('API_KEY')
 }
-response = requests.get("https://api.spotify.com/v1/audio-features/1YI006fNvkEW0QiYQX54XL", headers=headers)
+response = requests.get("https://api.spotify.com/v1/recommendations/available-genre-seeds", headers=headers)
 
 response.json()
 
 pprint.pprint(response.json())
-
-print(os.environ.get('API_KEY'))
