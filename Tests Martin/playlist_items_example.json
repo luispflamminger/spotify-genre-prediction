@@ -1,0 +1,200 @@
+{
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa2PvUpywmrr/tracks?offset=6&limit=2&market=US",
+    "items": [
+      {
+        "added_at": "2021-09-17T22:25:42Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/"
+          },
+          "href": "https://api.spotify.com/v1/users/",
+          "id": "",
+          "type": "user",
+          "uri": "spotify:user:"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+            },
+            "href": "https://api.spotify.com/v1/albums/5dGWwsZ9iB2Xc3UKR0gif2",
+            "id": "5dGWwsZ9iB2Xc3UKR0gif2",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
+                "width": 64
+              }
+            ],
+            "name": "Justice",
+            "release_date": "2021-03-19",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+              },
+              "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+              "id": "1uNFoZAHBGtllmzznpCI3s",
+              "name": "Justin Bieber",
+              "type": "artist",
+              "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 170813,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USUM72102322"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1nahzW3kfMuwReTka28tH5",
+          "id": "1nahzW3kfMuwReTka28tH5",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Hold On",
+          "popularity": 78,
+          "preview_url": null,
+          "track": true,
+          "track_number": 9,
+          "type": "track",
+          "uri": "spotify:track:1nahzW3kfMuwReTka28tH5"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2021-09-17T22:25:42Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/"
+          },
+          "href": "https://api.spotify.com/v1/users/",
+          "id": "",
+          "type": "user",
+          "uri": "spotify:user:"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                },
+                "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                "id": "1McMsnEElThX1knmY4oliG",
+                "name": "Olivia Rodrigo",
+                "type": "artist",
+                "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+            },
+            "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+            "id": "6s84u2TUpR3wdUv4NgKA2j",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+                "width": 64
+              }
+            ],
+            "name": "SOUR",
+            "release_date": "2021-05-21",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+              },
+              "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+              "id": "1McMsnEElThX1knmY4oliG",
+              "name": "Olivia Rodrigo",
+              "type": "artist",
+              "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 178146,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USUG12101245"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4ZtFanR9U6ndgddUvNcjcG",
+          "id": "4ZtFanR9U6ndgddUvNcjcG",
+          "is_local": false,
+          "is_playable": true,
+          "name": "good 4 u",
+          "popularity": 96,
+          "preview_url": null,
+          "track": true,
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:4ZtFanR9U6ndgddUvNcjcG"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      }
+    ],
+    "limit": 2,
+    "next": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa2PvUpywmrr/tracks?offset=8&limit=2&market=US",
+    "offset": 6,
+    "previous": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa2PvUpywmrr/tracks?offset=4&limit=2&market=US",
+    "total": 75
+  }

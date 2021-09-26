@@ -1,0 +1,39 @@
+{
+    "artists" : {
+      "href" : "https://api.spotify.com/v1/search?query=Rin&type=artist&market=DE&offset=0&limit=1",
+      "items" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "followers" : {
+          "href" : null,
+          "total" : 689605
+        },
+        "genres" : [ "german cloud rap", "german hip hop" ],
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab6761610000e5ebab213746f88c8e79ed353453",
+          "width" : 640
+        }, {
+          "height" : 320,
+          "url" : "https://i.scdn.co/image/ab67616100005174ab213746f88c8e79ed353453",
+          "width" : 320
+        }, {
+          "height" : 160,
+          "url" : "https://i.scdn.co/image/ab6761610000f178ab213746f88c8e79ed353453",
+          "width" : 160
+        } ],
+        "name" : "RIN",
+        "popularity" : 70,
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "limit" : 1,
+      "next" : "https://api.spotify.com/v1/search?query=Rin&type=artist&market=DE&offset=1&limit=1",
+      "offset" : 0,
+      "previous" : null,
+      "total" : 5389
+    }
+  }

@@ -1,0 +1,409 @@
+{
+    "href" : "https://api.spotify.com/v1/albums/7FzVARL5hF1iZPpOTCyMpp/tracks?offset=0&limit=30&market=DE",
+    "items" : [ {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 175106,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/034jxfixe0Gogd6p0reMnP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/034jxfixe0Gogd6p0reMnP",
+      "id" : "034jxfixe0Gogd6p0reMnP",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hollywood",
+      "preview_url" : "https://p.scdn.co/mp3-preview/03fc1398a05986d5482bf22162f9e8142f9c544d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:034jxfixe0Gogd6p0reMnP"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 208106,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4Y5ShamuGjxfQWdwY1Kz5R"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4Y5ShamuGjxfQWdwY1Kz5R",
+      "id" : "4Y5ShamuGjxfQWdwY1Kz5R",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Bietigheimication",
+      "preview_url" : "https://p.scdn.co/mp3-preview/8b8bd0d00ca09ed3d8e7389ca64b8e5e01740a3f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4Y5ShamuGjxfQWdwY1Kz5R"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 171946,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2jaIG7maBxDYJ7V5pAb19h"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2jaIG7maBxDYJ7V5pAb19h",
+      "id" : "2jaIG7maBxDYJ7V5pAb19h",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nirvana",
+      "preview_url" : "https://p.scdn.co/mp3-preview/0d9ddea411797cd118ba829f714f7b6397f5c35b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2jaIG7maBxDYJ7V5pAb19h"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/13bDjug9N0pyv3ZUINjkDV",
+        "id" : "13bDjug9N0pyv3ZUINjkDV",
+        "name" : "Bausa",
+        "type" : "artist",
+        "uri" : "spotify:artist:13bDjug9N0pyv3ZUINjkDV"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 198080,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4OVF6uwZlMOSlZmHDnwliX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4OVF6uwZlMOSlZmHDnwliX",
+      "id" : "4OVF6uwZlMOSlZmHDnwliX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Keine Liebe",
+      "preview_url" : "https://p.scdn.co/mp3-preview/3f7ed6603a9ffa8ff68ac1cedd56de11707d3e9c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:4OVF6uwZlMOSlZmHDnwliX"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167360,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2DGaC5ET92bgg0fMunJKIF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2DGaC5ET92bgg0fMunJKIF",
+      "id" : "2DGaC5ET92bgg0fMunJKIF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Vintage",
+      "preview_url" : "https://p.scdn.co/mp3-preview/e1834bf1b56f334e6485e9969efbdec8c657338d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:2DGaC5ET92bgg0fMunJKIF"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 160226,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1qsu64afWBMtf0Ut1mS3RE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1qsu64afWBMtf0Ut1mS3RE",
+      "id" : "1qsu64afWBMtf0Ut1mS3RE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Brunai",
+      "preview_url" : "https://p.scdn.co/mp3-preview/41ec2ac8c1847103a162de7b1cfa6be1e6ca0f5e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:1qsu64afWBMtf0Ut1mS3RE"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 169293,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/38UlieEW0eto55PNH9Z0cK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/38UlieEW0eto55PNH9Z0cK",
+      "id" : "38UlieEW0eto55PNH9Z0cK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "RSVP",
+      "preview_url" : "https://p.scdn.co/mp3-preview/ef1e8e593f83931ae9fbf02b56e1333a649ca5fc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:38UlieEW0eto55PNH9Z0cK"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174746,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0nnmA43aDEfmau2Vyo7b4g"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0nnmA43aDEfmau2Vyo7b4g",
+      "id" : "0nnmA43aDEfmau2Vyo7b4g",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "UP IN SMOKE",
+      "preview_url" : "https://p.scdn.co/mp3-preview/eb966a00b04a52b38bc1fde525abec6687c7142a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:0nnmA43aDEfmau2Vyo7b4g"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190640,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/06pbKFx2Iut0MRs1XjV9Mc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/06pbKFx2Iut0MRs1XjV9Mc",
+      "id" : "06pbKFx2Iut0MRs1XjV9Mc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "M.I.A.",
+      "preview_url" : "https://p.scdn.co/mp3-preview/bacde54d7c027b44f8084222a4750dfe57b3b53f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:06pbKFx2Iut0MRs1XjV9Mc"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 208946,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2RaKlveGCllSaXloN8kmzV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2RaKlveGCllSaXloN8kmzV",
+      "id" : "2RaKlveGCllSaXloN8kmzV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Alien",
+      "preview_url" : "https://p.scdn.co/mp3-preview/e570a0fd760cca316382d4db84e92f102f198075?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:2RaKlveGCllSaXloN8kmzV"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 177240,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7BYf1rypxrlcLK2DMLSjiw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7BYf1rypxrlcLK2DMLSjiw",
+      "id" : "7BYf1rypxrlcLK2DMLSjiw",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fabergé",
+      "preview_url" : "https://p.scdn.co/mp3-preview/4ca7b9bd69b60d140a86b50b0563c1a75509f7f5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:7BYf1rypxrlcLK2DMLSjiw"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 192426,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4eMM7LRWniPNJVpmmCRaG4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4eMM7LRWniPNJVpmmCRaG4",
+      "id" : "4eMM7LRWniPNJVpmmCRaG4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Voyage",
+      "preview_url" : "https://p.scdn.co/mp3-preview/5a7e62c6af124c5a5324c7e0a85ed936e5c6bb93?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:4eMM7LRWniPNJVpmmCRaG4"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ErWLckuGFl84nGmg5fwyG",
+        "id" : "2ErWLckuGFl84nGmg5fwyG",
+        "name" : "Bilderbuch",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ErWLckuGFl84nGmg5fwyG"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 267906,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1ewnxR1cbw5EENrHN8tiX1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1ewnxR1cbw5EENrHN8tiX1",
+      "id" : "1ewnxR1cbw5EENrHN8tiX1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nimmerland (feat. Bilderbuch)",
+      "preview_url" : "https://p.scdn.co/mp3-preview/9e10ecc937d7d54c10b7777e89f8870ad823cc79?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:1ewnxR1cbw5EENrHN8tiX1"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+        "id" : "18ISxWwWjV6rPLoVCXf1dz",
+        "name" : "RIN",
+        "type" : "artist",
+        "uri" : "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Yttlv9ndGjCDCVLqM7ACq",
+        "id" : "4Yttlv9ndGjCDCVLqM7ACq",
+        "name" : "Sido",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Yttlv9ndGjCDCVLqM7ACq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3CJKkU0XuElRT1z8rEtIYg",
+        "id" : "3CJKkU0XuElRT1z8rEtIYg",
+        "name" : "Luciano",
+        "type" : "artist",
+        "uri" : "spotify:artist:3CJKkU0XuElRT1z8rEtIYg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 229160,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5GQFx7UzCJOQZEqKjTepaY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5GQFx7UzCJOQZEqKjTepaY",
+      "id" : "5GQFx7UzCJOQZEqKjTepaY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Vintage (feat. Sido & Luciano) - Remix",
+      "preview_url" : "https://p.scdn.co/mp3-preview/86cfe884aa9e9f9ba86bea4ebc7ae5d6c05399fa?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:5GQFx7UzCJOQZEqKjTepaY"
+    } ],
+    "limit" : 30,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 14
+  }
