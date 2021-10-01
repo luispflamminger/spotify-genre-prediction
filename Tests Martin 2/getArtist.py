@@ -1,6 +1,7 @@
 import requests
 from dotenv import load_dotenv
 import os
+import json
 
 load_dotenv('.env')
 
@@ -13,4 +14,19 @@ headers = {
 
 response = requests.request("GET", url, headers=headers, data=payload)
 
-print(response.text)
+resp = json.loads(response.text)
+
+artists = resp['artists']
+
+items = artists['items']
+
+for data in items:
+
+  items_data = data
+  artist = items_data['name']
+  uid = items_data['uri']
+  id = uid[15 : ]
+
+  print(artist)
+  print(uid)
+  print(id)
