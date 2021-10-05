@@ -1,7 +1,7 @@
 # spotify-genre-prediction
 Trying to predict the genre of songs based on the audio features provided by the tracks api using a machine learning model
 
-## Setup for development
+## Setup for development (on windows)
 1. Set up a python virtual environment  
    In the project folder run  
    `python3 -m venv env`

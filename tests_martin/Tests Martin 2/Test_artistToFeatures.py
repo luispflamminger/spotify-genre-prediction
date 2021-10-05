@@ -52,39 +52,39 @@ def getFeatures(idList):
     print(audio_array)
 
 
-    # Create a workbook and add a worksheet.
-    workbook = xlsxwriter.Workbook('Track_Features - Test2.xlsx')
-    worksheet = workbook.add_worksheet()
+    # # Create a workbook and add a worksheet.
+    # workbook = xlsxwriter.Workbook('Track_Features - Test2.xlsx')
+    # worksheet = workbook.add_worksheet()
 
-    # Start from the first cell. Rows and columns are zero indexed.
-    row = 0
-    col = 0
+    # # Start from the first cell. Rows and columns are zero indexed.
+    # row = 0
+    # col = 0
 
-    # Iterate over the data and write it out row by row.
-    for danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, type, id, uri, track_href, analysis_url, duration_ms, time_signature in (audio_array):
-        worksheet.write(row, col,     danceability)
-        worksheet.write(row, col + 1, energy)
-        worksheet.write(row, col + 2, key)
-        worksheet.write(row, col + 3, loudness)
-        worksheet.write(row, col + 4, mode)
-        worksheet.write(row, col + 5, speechiness)
-        worksheet.write(row, col + 6, acousticness)
-        worksheet.write(row, col + 7, instrumentalness)
-        worksheet.write(row, col + 8, liveness)
-        worksheet.write(row, col + 9, valence)
-        worksheet.write(row, col + 10, tempo)
-        worksheet.write(row, col + 11, type)
-        worksheet.write(row, col + 12, id)
-        worksheet.write(row, col + 13, uri)
-        worksheet.write(row, col + 14, track_href)
-        worksheet.write(row, col + 15, analysis_url)
-        worksheet.write(row, col + 16, duration_ms)
-        worksheet.write(row, col + 17, time_signature)
+    # # Iterate over the data and write it out row by row.
+    # for danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, type, id, uri, track_href, analysis_url, duration_ms, time_signature in (audio_array):
+    #     worksheet.write(row, col,     danceability)
+    #     worksheet.write(row, col + 1, energy)
+    #     worksheet.write(row, col + 2, key)
+    #     worksheet.write(row, col + 3, loudness)
+    #     worksheet.write(row, col + 4, mode)
+    #     worksheet.write(row, col + 5, speechiness)
+    #     worksheet.write(row, col + 6, acousticness)
+    #     worksheet.write(row, col + 7, instrumentalness)
+    #     worksheet.write(row, col + 8, liveness)
+    #     worksheet.write(row, col + 9, valence)
+    #     worksheet.write(row, col + 10, tempo)
+    #     worksheet.write(row, col + 11, type)
+    #     worksheet.write(row, col + 12, id)
+    #     worksheet.write(row, col + 13, uri)
+    #     worksheet.write(row, col + 14, track_href)
+    #     worksheet.write(row, col + 15, analysis_url)
+    #     worksheet.write(row, col + 16, duration_ms)
+    #     worksheet.write(row, col + 17, time_signature)
 
-        row += 1
+    #     row += 1
         
 
-    workbook.close()
+    # workbook.close()
 
 # Function: get songs of an album
 
@@ -138,7 +138,8 @@ def getAlbums(artistID):
             print(album + ':')
             getTracksOfAlbum(id)
             print("-----")
-            break
+            #
+            # break
         
     print("------------")
 

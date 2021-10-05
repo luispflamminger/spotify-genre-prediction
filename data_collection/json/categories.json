@@ -1,0 +1,236 @@
+{
+  "categories": [
+    {
+      "id": "toplists",
+      "name": "Top Lists"
+    },
+    {
+      "id": "hiphop",
+      "name": "Hip Hop"
+    },
+    {
+      "id": "pop",
+      "name": "Pop"
+    },
+    {
+      "id": "country",
+      "name": "Country"
+    },
+    {
+      "id": "rock",
+      "name": "Rock"
+    },
+    {
+      "id": "latin",
+      "name": "Latin"
+    },
+    {
+      "id": "mood",
+      "name": "Mood"
+    },
+    {
+      "id": "workout",
+      "name": "Workout"
+    },
+    {
+      "id": "rnb",
+      "name": "R&B"
+    },
+    {
+      "id": "edm_dance",
+      "name": "Dance/Electronic"
+    },
+    {
+      "id": "indie_alt",
+      "name": "Indie"
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep"
+    },
+    {
+      "id": "regional_mexican",
+      "name": "Regional Mexican"
+    },
+    {
+      "id": "chill",
+      "name": "Chill"
+    },
+    {
+      "id": "inspirational",
+      "name": "Christian & Gospel"
+    },
+    {
+      "id": "frequency",
+      "name": "Frequency"
+    },
+    {
+      "id": "decades",
+      "name": "Decades"
+    },
+    {
+      "id": "fresh_finds",
+      "name": "Fresh Finds"
+    },
+    {
+      "id": "student",
+      "name": "Student"
+    },
+    {
+      "id": "focus",
+      "name": "Focus"
+    },
+    {
+      "id": "equal",
+      "name": "EQUAL"
+    },
+    {
+      "id": "party",
+      "name": "Party"
+    },
+    {
+      "id": "kids_family",
+      "name": "Kids & Family"
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming"
+    },
+    {
+      "id": "roots",
+      "name": "Folk & Acoustic"
+    },
+    {
+      "id": "kpop",
+      "name": "K-Pop"
+    },
+    {
+      "id": "instrumental",
+      "name": "Instrumental"
+    },
+    {
+      "id": "ambient",
+      "name": "Ambient"
+    },
+    {
+      "id": "alternative",
+      "name": "Alternative"
+    },
+    {
+      "id": "wellness",
+      "name": "Wellness"
+    },
+    {
+      "id": "pride",
+      "name": "Pride"
+    },
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "in_the_car",
+      "name": "In the car"
+    },
+    {
+      "id": "shows_with_music",
+      "name": "theLINER"
+    },
+    {
+      "id": "classical",
+      "name": "Classical"
+    },
+    {
+      "id": "jazz",
+      "name": "Jazz"
+    },
+    {
+      "id": "soul",
+      "name": "Soul"
+    },
+    {
+      "id": "sessions",
+      "name": "Spotify Singles"
+    },
+    {
+      "id": "at_home",
+      "name": "At Home"
+    },
+    {
+      "id": "dinner",
+      "name": "Cooking & Dining"
+    },
+    {
+      "id": "punk",
+      "name": "Punk"
+    },
+    {
+      "id": "sports",
+      "name": "Sports"
+    },
+    {
+      "id": "popculture",
+      "name": "Pop culture"
+    },
+    {
+      "id": "aapi_heritage_month",
+      "name": "Stop Asian Hate"
+    },
+    {
+      "id": "blues",
+      "name": "Blues"
+    },
+    {
+      "id": "arab",
+      "name": "Arab"
+    },
+    {
+      "id": "desi",
+      "name": "Desi"
+    },
+    {
+      "id": "radar",
+      "name": "RADAR"
+    },
+    {
+      "id": "jre_podcast",
+      "name": "Joe Rogan Experience"
+    },
+    {
+      "id": "callherdaddy_podcast",
+      "name": "Call Her Daddy"
+    },
+    {
+      "id": "anime",
+      "name": "Anime"
+    },
+    {
+      "id": "thirdparty",
+      "name": "Tastemakers"
+    },
+    {
+      "id": "afro",
+      "name": "Afro"
+    },
+    {
+      "id": "comedy",
+      "name": "Comedy"
+    },
+    {
+      "id": "metal",
+      "name": "Metal"
+    },
+    {
+      "id": "caribbean",
+      "name": "Caribbean"
+    },
+    {
+      "id": "funk",
+      "name": "Funk & Disco"
+    },
+    {
+      "id": "holidays",
+      "name": "Happy Holidays"
+    }
+  ]
+}
