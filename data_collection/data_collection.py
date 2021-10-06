@@ -9,6 +9,7 @@ import math
 from categories import getAllCategories
 from playlists import getPlaylistsForCategories
 from http_setup import setupRequestsSession
+from tracks import getTracksOfPlaylists
 import pandas as pd
 
 
@@ -24,8 +25,10 @@ http = setupRequestsSession()
 
 data = {}
 
-data = getAllCategories(http, auth_token, data,True, os.path.join("data_collection", "json", "categories.json"))
-getPlaylistsForCategories(http, auth_token, data,True, os.path.join("data_collection", "json", "playlists.json"))
-
 #To load data_object from file instead of rerunning the scripts, do:
-#data = json.load(os.path.join("data_collection", "json", "playlists.json"))
+file = open(os.path.join("data_collection", "json", "playlists.json"))
+data = json.load(file)
+
+#data = getAllCategories(http, auth_token, data,True, os.path.join("data_collection", "json", "categories.json"))
+#getPlaylistsForCategories(http, auth_token, data,True, os.path.join("data_collection", "json", "playlists.json"))
+data = getTracksOfPlaylists(http, auth_token, data,True, os.path.join("data_collection", "json", "tracks.json"))
