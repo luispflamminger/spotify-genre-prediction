@@ -1,0 +1,680 @@
+{
+  "categories": [
+    {
+      "id": "hiphop",
+      "name": "Hip Hop",
+      "playlists": [
+        {
+          "id": "37i9dQZF1DX0XUsuxWHRQd",
+          "name": "RapCaviar"
+        },
+        {
+          "id": "37i9dQZF1DX6GwdWRQMQpq",
+          "name": "Feelin' Myself"
+        },
+        {
+          "id": "37i9dQZF1DX2RxBh64BHjQ",
+          "name": "Most Necessary"
+        },
+        {
+          "id": "37i9dQZF1DWY4xHQp97fN6",
+          "name": "Get Turnt"
+        },
+        {
+          "id": "37i9dQZF1DX9oh43oAzkyx",
+          "name": "Beast Mode Hip-Hop"
+        },
+        {
+          "id": "37i9dQZF1DX186v583rmzp",
+          "name": "I Love My '90s Hip-Hop"
+        },
+        {
+          "id": "37i9dQZF1DWT5MrZnPU1zD",
+          "name": "Hip Hop Controller"
+        },
+        {
+          "id": "37i9dQZF1DX6OgmB2fwLGd",
+          "name": "Internet People"
+        },
+        {
+          "id": "37i9dQZF1DXaxIqwkEGFEh",
+          "name": "Out The Mud"
+        },
+        {
+          "id": "37i9dQZF1DX0Tkc6ltcBfU",
+          "name": "No Cap"
+        },
+        {
+          "id": "37i9dQZF1DX76t638V6CA8",
+          "name": "Rap Workout"
+        },
+        {
+          "id": "37i9dQZF1DX4SrOBCjlfVi",
+          "name": "New Joints"
+        },
+        {
+          "id": "37i9dQZF1DX0HRj9P7NxeE",
+          "name": "Workout Twerkout"
+        },
+        {
+          "id": "37i9dQZF1DX6xZZEgC9Ubl",
+          "name": "tear drop"
+        },
+        {
+          "id": "37i9dQZF1DWX3387IZmjNa",
+          "name": "B.A.E."
+        },
+        {
+          "id": "37i9dQZF1DWWXzA48d9shL",
+          "name": "Tirade"
+        },
+        {
+          "id": "37i9dQZF1DWUFmyho2wkQU",
+          "name": "Hip-Hop Drive"
+        },
+        {
+          "id": "37i9dQZF1DWT6MhXz0jw61",
+          "name": "Mellow Bars"
+        },
+        {
+          "id": "37i9dQZF1DXaitacWUJMPH",
+          "name": "2 . 24"
+        },
+        {
+          "id": "37i9dQZF1DX8dTWjpijlub",
+          "name": "Trophy Room"
+        },
+        {
+          "id": "37i9dQZF1DWYok9l1JL7GM",
+          "name": "I Love My Down South Classics"
+        },
+        {
+          "id": "37i9dQZF1DX9sQDbOMReFI",
+          "name": "I Love My West Coast Classics"
+        },
+        {
+          "id": "37i9dQZF1DX2A29LI7xHn1",
+          "name": "Signed XOXO"
+        },
+        {
+          "id": "37i9dQZF1DWSUur0QPPsOn",
+          "name": "Taste"
+        },
+        {
+          "id": "37i9dQZF1DWVA1Gq4XHa6U",
+          "name": "Gold School"
+        },
+        {
+          "id": "37i9dQZF1DX1YPTAhwehsC",
+          "name": "State of Mind"
+        },
+        {
+          "id": "37i9dQZF1DWTJzNR1J5ygQ",
+          "name": "I Love My Midwest Classics"
+        },
+        {
+          "id": "37i9dQZF1DWSvKsRPPnv5o",
+          "name": "Westside Story"
+        },
+        {
+          "id": "37i9dQZF1DWSTeI2WWFaia",
+          "name": "Spilled Ink"
+        },
+        {
+          "id": "37i9dQZF1DWTggY0yqBxES",
+          "name": "Alternative Hip Hop"
+        },
+        {
+          "id": "37i9dQZF1DWYGxBNe4qojI",
+          "name": "I Love My East Coast Classics"
+        },
+        {
+          "id": "37i9dQZF1DX5hR0J49CmXC",
+          "name": "Mind Right"
+        },
+        {
+          "id": "37i9dQZF1DXdUAMxTn0rVu",
+          "name": "I Love My Underground Classics"
+        },
+        {
+          "id": "37i9dQZF1DWTplaZ1W7ARf",
+          "name": "Street Soul"
+        },
+        {
+          "id": "37i9dQZF1DX2XmsXL2WBQd",
+          "name": "I Love My '80s Hip-Hop"
+        },
+        {
+          "id": "37i9dQZF1DX91gZ5XTbTPm",
+          "name": "CST"
+        },
+        {
+          "id": "37i9dQZF1DX9iGsUcr0Bpa",
+          "name": "Door Knockers"
+        },
+        {
+          "id": "37i9dQZF1DWWIfrT204w7E",
+          "name": "City to City"
+        },
+        {
+          "id": "37i9dQZF1DWW4igXXl2Qkp",
+          "name": "Fresh Finds: Hip-Hop"
+        },
+        {
+          "id": "37i9dQZF1DWTgSTuHRv7LV",
+          "name": "Mucho Rap"
+        },
+        {
+          "id": "37i9dQZF1DX97h7ftpNSYT",
+          "name": "Run It Back"
+        },
+        {
+          "id": "37i9dQZF1DX1aTyQ3Z9nTc",
+          "name": "Choice Edit"
+        },
+        {
+          "id": "37i9dQZF1DWZwCeILEyQAy",
+          "name": "Pressure"
+        },
+        {
+          "id": "37i9dQZF1DX3KoYiZJ8DD4",
+          "name": "Sample School"
+        },
+        {
+          "id": "37i9dQZF1DX14V0XKu8GA9",
+          "name": "Our Wave, Nuestro Hip-Hop"
+        },
+        {
+          "id": "37i9dQZF1DX59ogDi1Z2XL",
+          "name": "Northern Bars"
+        },
+        {
+          "id": "37i9dQZF1DWWAqc46ZJdZf",
+          "name": "Black Lives Matter"
+        }
+      ]
+    },
+    {
+      "id": "rock",
+      "name": "Rock",
+      "playlists": [
+        {
+          "id": "37i9dQZF1DXcF6B6QPhFDv",
+          "name": "Rock This"
+        },
+        {
+          "id": "37i9dQZF1DWVqJMsgEN0F4",
+          "name": "Alt NOW"
+        },
+        {
+          "id": "37i9dQZF1DWWJOmJ7nRx0C",
+          "name": "Rock Hard"
+        },
+        {
+          "id": "37i9dQZF1DX82GYcclJ3Ug",
+          "name": "The New Alt"
+        },
+        {
+          "id": "37i9dQZF1DWXRqgorJj26U",
+          "name": "Rock Classics"
+        },
+        {
+          "id": "37i9dQZF1DX3oM43CtKnRV",
+          "name": "00s Rock Anthems"
+        },
+        {
+          "id": "37i9dQZF1DX1rVvRgjX59F",
+          "name": "90s Rock Anthems"
+        },
+        {
+          "id": "37i9dQZF1DXb3m918yXHxA",
+          "name": "Yacht Rock"
+        },
+        {
+          "id": "37i9dQZF1DX1spT6G94GFC",
+          "name": "80s Rock Anthems"
+        },
+        {
+          "id": "37i9dQZF1DWY1j3jZdCWOQ",
+          "name": "teen angst"
+        },
+        {
+          "id": "37i9dQZF1DX9wa6XirBPv8",
+          "name": "Emo Forever"
+        },
+        {
+          "id": "37i9dQZF1DWWwzidNQX6jx",
+          "name": "70s Rock Anthems"
+        },
+        {
+          "id": "37i9dQZF1DX3YMp9n8fkNx",
+          "name": "90s Pop Rock Essentials"
+        },
+        {
+          "id": "37i9dQZF1DXasneILDRM7B",
+          "name": "Pure Pop Punk"
+        },
+        {
+          "id": "37i9dQZF1DWYN0zdqzbEwl",
+          "name": "Rock en Espa\u00f1ol"
+        },
+        {
+          "id": "37i9dQZF1DWT3pfwRgyQMA",
+          "name": "Songs We Rocked Out To"
+        },
+        {
+          "id": "37i9dQZF1DX6xOPeSOGone",
+          "name": "Soft Rock"
+        },
+        {
+          "id": "37i9dQZF1DX8sGALGjOrTu",
+          "name": "2000s Screamo"
+        },
+        {
+          "id": "37i9dQZF1DX9GRpeH4CL0S",
+          "name": "Essential Alternative"
+        },
+        {
+          "id": "37i9dQZF1DX11ghcIxjcjE",
+          "name": "Grunge Forever"
+        },
+        {
+          "id": "37i9dQZF1DX5OUjSS1OMgV",
+          "name": "One More Rep"
+        },
+        {
+          "id": "37i9dQZF1DWWH0izG4erma",
+          "name": "Country Rocks"
+        },
+        {
+          "id": "37i9dQZF1DX83I5je4W4rP",
+          "name": "Beach Vibes"
+        },
+        {
+          "id": "37i9dQZF1DWWGFQLoP9qlv",
+          "name": "Legendary"
+        },
+        {
+          "id": "37i9dQZF1DWWzBc3TOlaAV",
+          "name": "60s Rock Anthems"
+        },
+        {
+          "id": "37i9dQZF1DXciq74vrQmM8",
+          "name": "misfits 2.0"
+        },
+        {
+          "id": "37i9dQZF1DX49jUV2NfGku",
+          "name": "Rock Solid"
+        },
+        {
+          "id": "37i9dQZF1DX1tyCD9QhIWF",
+          "name": "Walk Like A Badass"
+        },
+        {
+          "id": "37i9dQZF1DWVwr24yj95lH",
+          "name": "Post-Grunge Appreciation Society"
+        },
+        {
+          "id": "37i9dQZF1DWWRktbhJiuqL",
+          "name": "Pure Rock & Roll"
+        },
+        {
+          "id": "37i9dQZF1DWYmDNATMglFU",
+          "name": "the locker_"
+        },
+        {
+          "id": "37i9dQZF1DXbDjX0hus3Iu",
+          "name": "Southern Rock 101"
+        },
+        {
+          "id": "37i9dQZF1DX5PcuIKocvtW",
+          "name": "FORYOU"
+        },
+        {
+          "id": "37i9dQZF1DWTlgzqHpWg4m",
+          "name": "California Rock State"
+        },
+        {
+          "id": "37i9dQZF1DWTfrr8pte1rT",
+          "name": "Rocktronic"
+        },
+        {
+          "id": "37i9dQZF1DX82Zzp6AKx64",
+          "name": "Power Ballads"
+        },
+        {
+          "id": "37i9dQZF1DWSlJG7YPUBHF",
+          "name": "Legendary Guitar Solos"
+        },
+        {
+          "id": "37i9dQZF1DWSDoVybeQisg",
+          "name": "Psychedelic Rock"
+        },
+        {
+          "id": "37i9dQZF1DX35DWKgAk2B5",
+          "name": "Indie Rock Club"
+        },
+        {
+          "id": "37i9dQZF1DX525kA8Naqsg",
+          "name": "Raised on Rock"
+        },
+        {
+          "id": "37i9dQZF1DX99DRG9N39X3",
+          "name": "10s Rock Anthems"
+        },
+        {
+          "id": "37i9dQZF1DXaWgNWdGsjlE",
+          "name": "Sludge"
+        },
+        {
+          "id": "37i9dQZF1DWWsq4e0rDzty",
+          "name": "Rock School"
+        },
+        {
+          "id": "37i9dQZF1DWZjmJmeiazwd",
+          "name": "Ultimate Rock Gaming"
+        },
+        {
+          "id": "37i9dQZF1DX0Nb1cyWS6Tq",
+          "name": "Dark & Gothic"
+        },
+        {
+          "id": "37i9dQZF1DWZkHEX2YHpDV",
+          "name": "The Scene"
+        },
+        {
+          "id": "37i9dQZF1DX1vEe0OWx8Fn",
+          "name": "dear diary"
+        },
+        {
+          "id": "37i9dQZF1DXdpVGstUksUC",
+          "name": "Stoner Rock"
+        },
+        {
+          "id": "37i9dQZF1DX6ujZpAN0v9r",
+          "name": "Shoegaze Classics"
+        },
+        {
+          "id": "37i9dQZF1DX0rCrO4CFRfM",
+          "name": "Acoustic Rock"
+        },
+        {
+          "id": "37i9dQZF1DWXMg4uP5o3dm",
+          "name": "Alternative Beats"
+        },
+        {
+          "id": "37i9dQZF1DX89XXHpIgTCJ",
+          "name": "I Love Rap 'n' Roll"
+        },
+        {
+          "id": "37i9dQZF1DWXs1L3AC0Xio",
+          "name": "Rock Ballads"
+        },
+        {
+          "id": "37i9dQZF1DX7GqyyDpXu1q",
+          "name": "Southern Comfort"
+        },
+        {
+          "id": "37i9dQZF1DX7Z7kYpKKGTc",
+          "name": "Rock Love Songs"
+        },
+        {
+          "id": "37i9dQZF1DWY6vTWIdZ54A",
+          "name": "Dirty Rock"
+        },
+        {
+          "id": "37i9dQZF1DXd0ZFXhY0CRF",
+          "name": "Women of Rock"
+        },
+        {
+          "id": "37i9dQZF1DXa6YOhGMjjgx",
+          "name": "New Alt-Rock Mixtape"
+        },
+        {
+          "id": "37i9dQZF1DWSKpvyAAcaNZ",
+          "name": "Blues & Roots Rock"
+        },
+        {
+          "id": "37i9dQZF1DX2S9rTKTX6JP",
+          "name": "Rock Covers"
+        },
+        {
+          "id": "37i9dQZF1DXbMYUPb05hjJ",
+          "name": "Garage Rock Revival"
+        },
+        {
+          "id": "37i9dQZF1DX09NvEVpeM77",
+          "name": "Born in the USA"
+        },
+        {
+          "id": "37i9dQZF1DX2G2VrXHSPQG",
+          "name": "Your Alternative"
+        },
+        {
+          "id": "37i9dQZF1DWYMHB55fgZrY",
+          "name": "Iconos del Rock Mexicano"
+        },
+        {
+          "id": "37i9dQZF1DX1UUxt0XIQz1",
+          "name": "Vintage Vibes: Grunge Years"
+        },
+        {
+          "id": "37i9dQZF1DX8V6C5Nr1MvC",
+          "name": "Rocktail Hour"
+        },
+        {
+          "id": "37i9dQZF1DWSsObZRzO8Xw",
+          "name": "Math Rock"
+        },
+        {
+          "id": "37i9dQZF1DX5a39zUmS7Hn",
+          "name": "Legends Only"
+        },
+        {
+          "id": "37i9dQZF1DX7k3T9O9bscd",
+          "name": "Neo-Psychedelic Rock"
+        },
+        {
+          "id": "37i9dQZF1DX2aneNMeYHQ8",
+          "name": "Rockin' Vibes"
+        },
+        {
+          "id": "37i9dQZF1DX5W4wuxak2hE",
+          "name": "Power Pop"
+        },
+        {
+          "id": "37i9dQZF1DWZryfp6NSvtz",
+          "name": "All New Rock"
+        },
+        {
+          "id": "37i9dQZF1DX6RbMTl2YnQ8",
+          "name": "Rock en Espa\u00f1ol: Los 2000"
+        },
+        {
+          "id": "37i9dQZF1DX5kjCvsC5isB",
+          "name": "Fierce Femmes"
+        },
+        {
+          "id": "37i9dQZF1DX23YPJntYMnh",
+          "name": "Funk Rock"
+        },
+        {
+          "id": "37i9dQZF1DWUE25YmPdDOO",
+          "name": "Nostalgia + Rock"
+        },
+        {
+          "id": "37i9dQZF1DXbR32Ldau7WM",
+          "name": "Big in Japan"
+        },
+        {
+          "id": "37i9dQZF1DX2UyG74cWOyT",
+          "name": "Rock This Presents...Best Rock Songs of 2020"
+        },
+        {
+          "id": "37i9dQZF1DWT2jS7NwYPVI",
+          "name": "New Noise"
+        },
+        {
+          "id": "37i9dQZF1DX1X7WV84927n",
+          "name": "Hard Rock"
+        },
+        {
+          "id": "37i9dQZF1DX2SFBzpAPi7n",
+          "name": "Cool K'IDs Rock"
+        },
+        {
+          "id": "37i9dQZF1DXadlZCyb9AB3",
+          "name": "Riot Grrrl"
+        },
+        {
+          "id": "37i9dQZF1DX0fWtUuB7bFE",
+          "name": "Classic Rock Now"
+        },
+        {
+          "id": "37i9dQZF1DWYAyGN1XM1YS",
+          "name": "memories"
+        },
+        {
+          "id": "37i9dQZF1DX98f0uoU1Pcs",
+          "name": "Noisy"
+        },
+        {
+          "id": "37i9dQZF1DWXsvIAf8Ytjl",
+          "name": "Drum Mania"
+        },
+        {
+          "id": "37i9dQZF1DX78toxP7mOaJ",
+          "name": "Fresh Finds: Rock"
+        },
+        {
+          "id": "37i9dQZF1DWXMJdkLQRrmg",
+          "name": "Stripped Down"
+        },
+        {
+          "id": "37i9dQZF1DX0KQrbsfHQvG",
+          "name": "Rise Up"
+        },
+        {
+          "id": "37i9dQZF1DX2UXfvEIZvDK",
+          "name": "Modern Chill Rock"
+        },
+        {
+          "id": "37i9dQZF1DX72tt7n9B4TV",
+          "name": "Summer Rock"
+        },
+        {
+          "id": "37i9dQZF1DX0xLQsW8b5Zx",
+          "name": "Rockabilly Mania"
+        },
+        {
+          "id": "37i9dQZF1DX0uqkwkR49kK",
+          "name": "Prog Rock Monsters"
+        },
+        {
+          "id": "37i9dQZF1DX3IplhwNexYg",
+          "name": "pulp"
+        },
+        {
+          "id": "37i9dQZF1DWU05aHRDUDnL",
+          "name": "Headphones on, World Off"
+        },
+        {
+          "id": "37i9dQZF1DX9stbPFTxeaB",
+          "name": "Funky Heavy Bluesy"
+        },
+        {
+          "id": "37i9dQZF1DX9IlPkA8ovHw",
+          "name": "The Beatles & Beyond"
+        },
+        {
+          "id": "37i9dQZF1DWU8yQ1nTMCfh",
+          "name": "Rock Total"
+        },
+        {
+          "id": "37i9dQZF1DXcKHVXMYcCuJ",
+          "name": "Alternative Rock's Most Precious Gems"
+        },
+        {
+          "id": "37i9dQZF1DWZU5DGR2xCSH",
+          "name": "Iconos del Rock Argentino"
+        },
+        {
+          "id": "37i9dQZF1DWXgtgITTKvYl",
+          "name": "Prog Rock"
+        },
+        {
+          "id": "37i9dQZF1DXbQQUna7yzAX",
+          "name": "Smells Like Stream Spirit"
+        },
+        {
+          "id": "37i9dQZF1DX1GRgeFnUb3o",
+          "name": "Crate Diggin' Sub Pop Records"
+        },
+        {
+          "id": "37i9dQZF1DX8HSZzYIDgBB",
+          "name": "AlterLatino"
+        },
+        {
+          "id": "37i9dQZF1DWTBN71pVn2Ej",
+          "name": "Alternative Noise"
+        },
+        {
+          "id": "37i9dQZF1DX2J9h4w9E0Xj",
+          "name": "Rock Rising"
+        },
+        {
+          "id": "37i9dQZF1DWTOmS5hmD9Zf",
+          "name": "Straight Edge Anthems"
+        },
+        {
+          "id": "37i9dQZF1DX6WdWXzlAP9E",
+          "name": "Woodstock"
+        },
+        {
+          "id": "37i9dQZF1DXcDnIr0iKAG8",
+          "name": "Rock Save the Queen"
+        },
+        {
+          "id": "37i9dQZF1DWTWj7v9L0hPR",
+          "name": "DE(TOUR)"
+        },
+        {
+          "id": "37i9dQZF1DX4EFbXknq73d",
+          "name": "The Lot"
+        },
+        {
+          "id": "37i9dQZF1DWW6E2JpQb9U9",
+          "name": "Vivo de Rock"
+        },
+        {
+          "id": "37i9dQZF1DWUB167twpvS4",
+          "name": "Rockabilly Rebellion!"
+        },
+        {
+          "id": "37i9dQZF1DX1lwxXvReaux",
+          "name": "Workday: Rock Classics"
+        },
+        {
+          "id": "37i9dQZF1DXcUF9GRO45to",
+          "name": "French Noise"
+        },
+        {
+          "id": "37i9dQZF1DXdnZT5DhATDx",
+          "name": "Game of Thrones: The End is Coming"
+        },
+        {
+          "id": "37i9dQZF1DX5Cmakd3B354",
+          "name": "Psych Turk"
+        },
+        {
+          "id": "37i9dQZF1DWT9KDEHFNVYD",
+          "name": "Motorikbeat Highway"
+        },
+        {
+          "id": "37i9dQZF1DX9aVADS5TZr5",
+          "name": "Rock Your Rights"
+        }
+      ]
+    }
+  ]
+}

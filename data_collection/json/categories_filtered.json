@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "id": "hiphop",
+      "name": "Hip Hop"
+    },
+    {
+      "id": "rock",
+      "name": "Rock"
+    }
+  ]
+}

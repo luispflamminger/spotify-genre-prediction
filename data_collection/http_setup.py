@@ -1,3 +1,5 @@
+#guide: https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks/
+
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry

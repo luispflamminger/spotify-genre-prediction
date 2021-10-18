@@ -3,7 +3,7 @@ import math
 import os
 import json
 
-def getAllCategories(requests_session, auth_token, data_object, write_to_file=False, path_to_file=''):
+def getAllCategories(requests_session, auth_token, data_object, category_filter, write_to_file=False, path_to_file=''):
     
     #Establishing the requests session
     http = requests_session
@@ -40,13 +40,12 @@ def getAllCategories(requests_session, auth_token, data_object, write_to_file=Fa
         except Exception as e:
             raise SystemExit(e)
 
-        i = 0
         for el in response.json()["categories"]["items"]:
-            data["categories"].append({
-                "id": el["id"], 
-                "name": el["name"]
-            })
-            i += 1
+            if el["id"] in category_filter:
+                data["categories"].append({
+                    "id": el["id"], 
+                    "name": el["name"]
+                })
 
     if write_to_file == True:
         with open(path_to_file, 'w') as outfile:
