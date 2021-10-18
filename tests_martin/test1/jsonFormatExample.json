@@ -1,0 +1,92 @@
+{
+    "categories": [
+        {
+            "id": "hiphop",
+            "name": "Hip Hop",
+            "playlists": [
+              {
+                "id": "37i9dQZF1DX0XUsuxWHRQd",
+                "name": "RapCaviar",
+                "tracks": [
+                  {
+                    "id": "3J4VKkUpLvomXJbn9ZAypO",
+                    "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
+                    "album": {
+                      "id": "0q6qOUfC4ikWtv62KCnoip",
+                      "name": "Sharing Locations (feat. Lil Baby & Lil Durk)"
+                    },
+                    "artists": [
+                      {
+                        "id": "20sxb77xiYeusSH8cVdatc",
+                        "name": "Meek Mill"
+                      },
+                      {
+                        "id": "3hcs9uc56yIGFCSy9leWe7",
+                        "name": "Lil Durk"
+                      },
+                      {
+                        "id": "5f7VJjfbwm532GiveGC0ZK",
+                        "name": "Lil Baby"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "40iJIUlhi6renaREYGeIDS",
+                    "name": "Fair Trade (with Travis Scott)",
+                    "album": {
+                      "id": "3SpBlxme9WbeQdI9kx7KAV",
+                      "name": "Certified Lover Boy"
+                    },
+                    "artists": [
+                      {
+                        "id": "3TVXtAsR1Inumwj472S9r4",
+                        "name": "Drake"
+                      },
+                      {
+                        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+                        "name": "Travis Scott"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "4eL3XeuGaEoVT8ttDh3hwY",
+                    "name": "Too Easy",
+                    "album": {
+                      "id": "1hbRXvB0m34uUqNU8EbZzc",
+                      "name": "Too Easy"
+                    },
+                    "artists": [
+                      {
+                        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+                        "name": "Gunna"
+                      },
+                      {
+                        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+                        "name": "Future"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7Bpx2vsWfQFBACRz4h3IqH",
+                    "name": "family ties (with Kendrick Lamar)",
+                    "album": {
+                      "id": "3HqmX8hGcbbQZODgayNEYx",
+                      "name": "family ties (with Kendrick Lamar)"
+                    },
+                    "artists": [
+                      {
+                        "id": "5SXuuuRpukkTvsLuUknva1",
+                        "name": "Baby Keem"
+                      },
+                      {
+                        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                        "name": "Kendrick Lamar"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+        }
+    ]
+}
