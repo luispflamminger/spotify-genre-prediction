@@ -1,14 +1,16 @@
 import json
 import pandas as pd
 import os
+import copy
 
 # load json
-file = open(os.path.join("tests_martin", "test1", "jsonFormatExample.json"))
+file = open(os.path.join("data_collection", "data_transformation", "jsonFormatExample.json"))
 data = json.load(file)
 
 # variables 
 temp = {}
 path = ""
+result = []
 
 # loop over categories
 for category in data["categories"]:
@@ -39,26 +41,57 @@ for category in data["categories"]:
                         else:
 
                             path = f"{path}.track"
-
+                            
+                            # loop over tracks
                             for track in playlist["tracks"]:
 
                                 for item in track:
                                     
-                                    if item != "album" & item != "artists":
+                                    if item != "album" and item != "artists" and item != "features":
                                         key     = f"{path}.{item}"
-                                        value   = f"{playlist[item]}"
+                                        value   = f"{track[item]}"
                                         temp[key] = value
+                                    
+                                    else:
+                                        
+                                        # album data
+                                        if item == "album":
+                                            
+                                            for album in track["album"]:
+                                                key     = f"{path}.album.{album}"
+                                                value   = f"{track['album'][album]}"
+                                                temp[key] = value
 
+                                        # artist data (just name)
+                                        if item == "artists":
+                                            
+                                            value = ""
 
+                                            for artist in track["artists"]:
 
+                                                if not value:
+                                                    value = artist["name"]
+                                                else:
+                                                    value = f"{value}, {artist['name']}"
+                                                
 
+                                            key     = f"{path}.artist"
+                                            temp[key] = value
 
+                                        # track features
+                                        if item == "features":
 
+                                            for feature in track["features"]:
+                                                key     = f"{path}.feature.{feature}"
+                                                value   = f"{track['features'][feature]}"
+                                                temp[key] = value
 
+                                # write temp to flat json
+                                # temp represents one line 
+                                print("end of track")
+                                result.append(copy.copy(temp))
 
-
-
-print(temp)
+print(result)
 
 
 
