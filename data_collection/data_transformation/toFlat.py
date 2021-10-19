@@ -9,7 +9,6 @@ data = json.load(file)
 
 # variables 
 temp = {}
-path = ""
 result = []
 
 # loop over categories
@@ -26,10 +25,10 @@ for category in data["categories"]:
 
             else:
                 
-                path = f"{path}.playlist"
-                
                 #loop over playlist
                 for playlist in category["playlists"]:
+                    
+                    path = "category.playlist"
 
                     for item in playlist:
 
@@ -39,11 +38,11 @@ for category in data["categories"]:
                             temp[key] = value
 
                         else:
-
-                            path = f"{path}.track"
                             
                             # loop over tracks
                             for track in playlist["tracks"]:
+
+                                path = "category.playlist.track"
 
                                 for item in track:
                                     
