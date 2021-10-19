@@ -4,7 +4,7 @@ import os
 import copy
 
 # load json
-file = open(os.path.join("data_collection", "data_transformation", "jsonFormatExample.json"))
+file = open(os.path.join("data_collection", "json", "features_filtered.json"))
 data = json.load(file)
 
 # variables 
@@ -88,10 +88,10 @@ for category in data["categories"]:
 
                                 # write temp to flat json
                                 # temp represents one line 
-                                print("end of track")
+                                #print("end of track")
                                 result.append(copy.copy(temp))
 
-print(result)
 
-
+with open(os.path.join("data_collection", "data_transformation", "result.json"), 'w') as outfile:
+    json.dump(result, outfile, indent=2)
 
