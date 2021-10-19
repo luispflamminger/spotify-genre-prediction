@@ -1,17 +1,14 @@
-import requests
 import http
 from dotenv import load_dotenv
-import sys
 import os
 import json
-from authentication import *
-import math
-from categories import getAllCategories
-from playlists import getPlaylistsForCategories
-from http_setup import setupRequestsSession
-from features import getFeaturesOfTracks
-from tracks import getTracksOfPlaylists
-import pandas as pd
+from functions.authentication import *
+from functions.categories import getAllCategories
+from functions.playlists import getPlaylistsForCategories
+from functions.http_setup import setupRequestsSession
+from functions.features import getFeaturesOfTracks
+from functions.tracks import getTracksOfPlaylists
+from functions.flatten_json import flattenJSON
 
 
 #Get environment variables from ".env" file and read credentials
@@ -27,13 +24,22 @@ http = setupRequestsSession()
 data = {}
 
 #Filter for which category ids should be used
-category_filter = ["hiphop", "rock"]
+#category_filter = ["hiphop", "rock", "jazz"]
 
 #To load data_object from file instead of rerunning the scripts, do:
-#file = open(os.path.join("data_collection", "json", "tracks_filter.json"))
-#data = json.load(file)
+file = open(os.path.join("data_collection", "json", "tracks_full.json"))
+data = json.load(file)
 
-data = getAllCategories(http, auth_token, data, category_filter, True, os.path.join("data_collection", "json", "categories_filtered.json"))
-data = getPlaylistsForCategories(http, auth_token, data,True, os.path.join("data_collection", "json", "playlists_filtered.json"))
-data = getTracksOfPlaylists(http, auth_token, data,True, os.path.join("data_collection", "json", "tracks_filtered.json"))
-getFeaturesOfTracks(http, auth_token, data, True, os.path.join("data_collection", "json", "features_filtered.json"))
+# data = getAllCategories(http, auth_token, data, False, None, True, os.path.join("data_collection", "json", "categories_full.json"))
+# print("got categories")
+# data = getPlaylistsForCategories(http, auth_token, data, True, os.path.join("data_collection", "json", "playlists_full.json"))
+# print("got playlists")
+# data = getTracksOfPlaylists(http, auth_token, data, True, os.path.join("data_collection", "json", "tracks_full.json"))
+# print("got tracks")
+# data = getFeaturesOfTracks(http, auth_token, data, True, os.path.join("data_collection", "json", "features_full.json"))
+# print("got features")
+
+#Flatten JSON
+print("starting to flatten json")
+flattenJSON(data, True,  os.path.join("data_collection", "json", "flat_json_no_features.json"))
+print("done")

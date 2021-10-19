@@ -1,0 +1,18 @@
+{
+    "categories": [
+        {
+            "name": "",
+            "id": "",
+            "playlists.name": "",
+            "playlists.id": "",
+            "playlists.tracks.id": "",
+            "playlists.tracks.features.danceability": ""
+        },
+        {
+            "name": "",
+            "id": "",
+            "playlists.name": "",
+            "playlists.id": ""
+        }
+    ] 
+}
