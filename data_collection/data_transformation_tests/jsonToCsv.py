@@ -3,7 +3,9 @@ import pandas as pd
 import os
 import csv
 
-f = open("/Users/martin/Documents/VSCode/BigData-Spotify/spotify-genre-prediction/data_collection/data_transformation_tests/result.json")
+f = open(os.path.join(os.getcwd(), "data_collection", "json", "flat_json_hiphop_rock_jazz.json"))
+print(f)
+
 resultJson = json.load(f)
  
 # now we will open a file for writing
@@ -20,7 +22,7 @@ for line in resultJson:
         header = line.keys()
         csv_writer.writerow(header)
         count += 1
- 
+
     # Writing data of CSV file
     csv_writer.writerow(line.values())
  
