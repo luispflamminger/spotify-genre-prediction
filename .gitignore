@@ -127,3 +127,31 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+### LaTeX stuff ###
+.DS_Store
+
+# Diese Dateien werden beim kompilieren erzeugt:
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.ilg
+*.lof
+*.log
+*.lot
+*.nlo
+*.nls*
+*.out
+*.run.xml
+*.sub
+*.suc
+*.syc
+*.sym
+*.synctex.gz
+*.toc
+
+# IDEs
+.texpadtmp/
