@@ -1,6 +1,10 @@
 {
   "python.terminal.activateEnvInCurrentTerminal": true,
   "python.defaultInterpreterPath": ".\\env\\Scripts\\python.exe",
+  "latex-workshop.synctex.synctexjs.enabled": true,
+  "latex-workshop.synctex.afterBuild.enabled": true,
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.latex.recipe.default": "first",
   "latex-workshop.latex.recipes": [
     {
       "name": "build",
@@ -44,5 +48,8 @@
       "command": "biber",
       "args": ["%DOCFILE%"]
     }
+  ],
+  "latex-workshop.latex.search.rootFiles.include": [
+    "paper/thesis_main.tex"
   ]
 }

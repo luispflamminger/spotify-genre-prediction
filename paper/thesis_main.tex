@@ -21,7 +21,7 @@
 %-----------------------------------
 % Meta informationen
 %-----------------------------------
-\input{skripte/meta}
+\input{scripts/meta}
 
 \newcommand{\langde}[1]{%
    \ifde\selectlanguage{ngerman}#1\fi}
@@ -139,24 +139,29 @@
 %%%% Neuer Leitfaden (2018)
 \usepackage[
 backend=biber,
-style=ext-authoryear-ibid, % Auskommentieren und nächste Zeile einkommentieren, falls "Ebd." (ebenda) nicht für sich-wiederholende Fussnoten genutzt werden soll.
-%style=ext-authoryear,
+style=ieee,
 maxcitenames=3,	% mindestens 3 Namen ausgeben bevor et. al. kommt
 maxbibnames=999,
-mergedate=false,
 date=iso,
 seconds=true, %werden nicht verwendet, so werden aber Warnungen unterdrückt.
 urldate=iso,
-innamebeforetitle,
 dashed=false,
-autocite=footnote,
-doi=false,
+autocite=inline,
 useprefix=true, % 'von' im Namen beachten (beim Anzeigen)
 mincrossrefs = 1
 ]{biblatex}%iso dateformat für YYYY-MM-DD
 
 %weitere Anpassungen für BibLaTex
-\input{skripte/modsBiblatex2018}
+%\input{skripte/modsBiblatex2018}
+
+%% et al. anstatt u. a. bei mehr als drei Autoren.
+\DefineBibliographyStrings{ngerman}{ 
+	andothers = {{et\,al\adddot}},             
+}
+\DefineBibliographyStrings{english}{ 
+	andothers = {{et\,al\adddot}},             
+}
+
 
 %%%%% Alter Leitfaden. Ggf. Einkommentieren und Bereich hierüber auskommentieren
 %\usepackage[
@@ -175,7 +180,7 @@ mincrossrefs = 1
 %%%% Ende Alter Leitfaden
 
 %Bib-Datei einbinden
-\addbibresource{literatur/literatur.bib}
+\addbibresource{literature/literature.bib}
 
 % Zeilenabstand im Literaturverzeichnis ist Einzeilig
 % siehe Leitfaden S. 14
@@ -191,12 +196,12 @@ mincrossrefs = 1
 %-----------------------------------
 % Pfad fuer Abbildungen
 %-----------------------------------
-\graphicspath{{./}{./abbildungen/}}
+\graphicspath{{./}{./figures/}}
 
 %-----------------------------------
 % Weitere Ebene einfügen
 %-----------------------------------
-\input{skripte/weitereEbene}
+\input{scripts/weitereEbene}
 
 %-----------------------------------
 % Paket für die Nutzung von Anhängen
@@ -239,10 +244,10 @@ mincrossrefs = 1
 %-----------------------------------
 % Glossar
 %-----------------------------------
-\usepackage{glossaries}
-\glstoctrue %Auskommentieren, damit das Glossar nicht im Inhaltsverzeichnis angezeigt wird.
-\makenoidxglossaries
-\input{abkuerzungen/glossar}
+%\usepackage{glossaries}
+%\glstoctrue %Auskommentieren, damit das Glossar nicht im Inhaltsverzeichnis angezeigt wird.
+%\makenoidxglossaries
+%\input{abkuerzungen/glossar}
 
 %-----------------------------------
 % PDF Meta Daten setzen
@@ -321,12 +326,12 @@ mincrossrefs = 1
 %-----------------------------------
 % Textcommands
 %-----------------------------------
-\input{skripte/textcommands}
+\input{scripts/textcommands}
 
 %-----------------------------------
 % Titlepage
 %-----------------------------------
-\input{kapitel/titelseite}
+\input{sections/titlepage}
 
 %-----------------------------------
 % Inhaltsverzeichnis
@@ -354,7 +359,7 @@ mincrossrefs = 1
 % Falls das Abkürzungsverzeichnis nicht im Inhaltsverzeichnis angezeigt werden soll
 % dann folgende Zeile auskommentieren.
 \addcontentsline{toc}{section}{\abbreHeadingName}
-\input{abkuerzungen/acronyms}
+\input{indices/acronyms}
 \newpage
 
 %-----------------------------------
@@ -364,14 +369,14 @@ mincrossrefs = 1
 % Falls das Symbolverzeichnis nicht im Inhaltsverzeichnis angezeigt werden soll
 % dann folgende Zeile auskommentieren.
 \addcontentsline{toc}{section}{\symheadingname}
-\input{skripte/symbolDef}
+\input{scripts/symbolDef}
 \listofsymbols
 \newpage
 
 %-----------------------------------
 % Glossar
 %-----------------------------------
-\printnoidxglossaries
+%\printnoidxglossaries
 \newpage
 
 %-----------------------------------
@@ -389,7 +394,7 @@ mincrossrefs = 1
 % Kapitel / Inhalte
 %-----------------------------------
 % Die Kapitel werden über folgende Datei eingebunden
-\input{skripte/kapitelUebersicht.tex}
+\input{sections/section_index.tex}
 
 %-----------------------------------
 % Apendix / Anhang
@@ -406,7 +411,7 @@ mincrossrefs = 1
 \addtocontents{toc}{\protect\setcounter{tocdepth}{0}} %
 	\renewcommand{\thesection}{\AppendixName\ \arabic{section}}
 	\renewcommand\thesubsection{\AppendixName\ \arabic{section}.\arabic{subsection}}
-	\input{kapitel/anhang/anhang}
+	\input{sections/05_Appendix/appendix}
 \end{appendices}
 \addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
 
@@ -462,5 +467,5 @@ mincrossrefs = 1
 %\printbibliography[type=online,heading=bibintoc,title={\headingNameInternetSources}]
 \printbibliography[type=online,heading=subbibliography,title={\headingNameInternetSources}]
 
-\input{kapitel/anhang/erklaerung}
+\input{sections/05_Appendix/erklaerung}
 \end{document}
