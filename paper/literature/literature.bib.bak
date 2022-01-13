@@ -21,7 +21,6 @@
 	publisher = {Galileo Press},
 	isbn = {978-3836219310}
 }
-
 @book{Beckert.2012.2,
 	usera = {Mobile Lösungen2},
 	keyword = {primary},
@@ -45,7 +44,6 @@
 	publisher = {Pearson Studium},
 	isbn = {978-3827370464}
 }
-
 @book{Balzert.2008,
 	usera = {Wissenschaftliches Arbeiten},
 	keyword = {primary},
@@ -71,7 +69,7 @@
 	series = {Soft skills}
 }
 
-{website:angular:aboutAngular,
+@online{website:angular:aboutAngular,
 	usera = {AngularJS},
 	title = "AngularJS - Was ist Angular?",
 	author = "Sascha Brink",
@@ -95,7 +93,6 @@
 	title = {Koalitionsaussagen der Parteien vor Wahlen. Eine Forschungsskizze im Kontext des deutschen Regierungssystems},
 	journal = {Zeitschrift für Parlamentsfragen}
 }
-
 @online{RCoreManual,
 	usera = {R Core},
 	title = {R: A Language and Environment for Statistical Computing},
@@ -128,7 +125,6 @@
     urldate = {2018-11-01},
     year = {2018}
 }
-
 @book{Wolff2017,
     address = {Boston, Columbus, Indianapolis, New York},
     author = {Wolff, Eberhard},
@@ -137,7 +133,6 @@
     title = {{Microservices}},
     year = {2017}
 }
-
 % sortkey: damit nach "Lucke" und nicht nach "von Lucke" sortiert wird
 @incollection{Lucke2018,
     editor = {Heuermann, Roland and Tomenendal, Matthias and Bressem, Christian},
@@ -151,7 +146,6 @@
     title = {Treiber, Ratgeber, Meinungsmacher},
     year = {2018}
 }
-
 @article{Wiederhofer2017,
     author = {Wiederhofer, André},
     usera = {IT-Flexibilität},
@@ -162,7 +156,6 @@
     number = {3},
     year = {2017}
 }
-
 % Quelle ohne eigene Jahresangabe --> o. J. bzw. keine Datumsangabe
 @online{Belastingdienst,
     usera = {{Bürgerservicenummer}},
@@ -171,20 +164,3 @@
     url = {https://www.belastingdienst.nl/wps/wcm/connect/bldcontentde/belastingdienst/privatpersonen/sonstige_themen/buergerservicenummer/was_ist_eine_buergerservicenummer_bsn},
     urldate = {2019-02-26},
 }
-
-@Article{Peng_2021,
-  author       = {Baogan Peng and Liang Yang and Yongchao Li and Tanghua Liu and Yanqing Liu},
-  date         = {2021-01},
-  journaltitle = {Pain and Therapy},
-  title        = {Cervical Proprioception Impairment in Neck Pain-Pathophysiology, Clinical Evaluation, and Management: A Narrative Review},
-  doi          = {10.1007/s40122-020-00230-z},
-  number       = {1},
-  pages        = {143--164},
-  volume       = {10},
-  owner        = {luisp},
-  publisher    = {Springer Science and Business Media {LLC}},
-}
-
-@Comment{jabref-meta: databaseType:biblatex;}
-
-@Comment{jabref-meta: fileDirectoryLatex-luisp-endeavouros-vm:/home/luisp/dev/spotify-genre-prediction/paper;}
