@@ -1,3 +1,3 @@
 [submodule "paper"]
 	path = paper
-	url = https://github.com/luispflamminger/spotify-genre-prediction-paper.git
+	url = https://github.com/luispflamminger/spotify-genre-prediction-paper
