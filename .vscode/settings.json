@@ -49,7 +49,4 @@
       "args": ["%DOCFILE%"]
     }
   ],
-  "latex-workshop.latex.search.rootFiles.include": [
-    "paper/thesis_main.tex"
-  ]
 }
